@@ -1,0 +1,1 @@
+{"vcf_types": {"sample1": "project18"}, "vcf_files": {"sample1": "Sim_500_1.no_real_info.vcf"}, "cnv_files": {"sample1": "cnvs.txt"}, "samples": ["sample1"]}

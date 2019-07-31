@@ -1,0 +1,5 @@
+chromosome	start	end	copy_number	minor_cn	major_cn	cellular_prevalence
+1	640305	239120876	2	1	1	0.94
+2	59261869	91121847	0	0	0	0.88
+2	92133672	105334721	2	0	2	0.88
+x	131072	3476491	2	0	2	0.64392
